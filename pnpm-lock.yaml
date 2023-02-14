@@ -159,7 +159,7 @@ importers:
       '@faker-js/faker': ^6.0.0
       '@godaddy/terminus': ^4.10.2
       '@google-cloud/storage': ^6.2.3
-      '@nestjs/axios': 0.1.1
+      '@nestjs/axios': ~2.0.0
       '@nestjs/cli': 9.0.0
       '@nestjs/common': 9.0.2
       '@nestjs/core': 9.0.2
@@ -222,7 +222,7 @@ importers:
       '@types/sinon': ^9.0.0
       '@types/supertest': ^2.0.8
       agenda: ^4.2.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       bcrypt: ^5.0.0
       body-parser: ^1.20.0
       bull: ^4.2.1
@@ -271,7 +271,7 @@ importers:
       '@azure/storage-blob': 12.11.0
       '@godaddy/terminus': 4.10.2
       '@google-cloud/storage': 6.2.3
-      '@nestjs/axios': 0.1.1_m35besaglbko3ybu6uaqzypui4
+      '@nestjs/axios': 2.0.0_ivnts6meojgvmcn22rcvkkktsi
       '@nestjs/common': 9.0.2_mgahpprohdkjk6lephiejykozi
       '@nestjs/core': 9.0.2_ezgaticglwkso3cdvexplbbm54
       '@nestjs/graphql': 10.2.0_y7m3aghmue4634axxxl7chrpsy
@@ -321,7 +321,7 @@ importers:
       '@sentry/tracing': 7.12.1
       '@types/handlebars': 4.1.0
       agenda: 4.2.1
-      axios: 0.27.2
+      axios: 1.3.3
       bcrypt: 5.0.1
       body-parser: 1.20.0
       bull: 4.8.1
@@ -387,7 +387,6 @@ importers:
       '@types/express': ^4.17.8
       '@types/node': ^14.14.6
       '@types/smtp-server': ^3.5.7
-      axios: ^0.27.0
       bluebird: ^2.9.30
       bullmq: ^3.5.8
       cross-env: ^7.0.3
@@ -415,7 +414,6 @@ importers:
     dependencies:
       '@novu/shared': link:../../libs/shared
       '@sentry/node': 7.30.0
-      axios: 0.27.2
       bluebird: 2.11.0
       bullmq: 3.5.9
       dotenv: 8.6.0
@@ -439,7 +437,7 @@ importers:
       cross-env: 7.0.3
       nodemon: 2.0.15
       prettier: 2.7.1
-      ts-jest: 27.1.4_dwaltnofjt727p7olboxmdxrie
+      ts-jest: 27.1.4_cnngzrja2umb46xxazlucyx2qu
       ts-loader: 9.4.2_hhrrucqyg4eysmfpujvov2ym5u
       ts-node: 10.9.1_shievopl57bw2yyflx5da526ye
       tsconfig-paths: 3.14.1
@@ -501,7 +499,7 @@ importers:
       ace-builds: ^1.4.12
       antd: ^4.10.0
       autoprefixer: ^9.8.6
-      axios: ^0.27.0
+      axios: ^1.3.3
       babel-plugin-import: ^1.13.3
       chart.js: ^3.7.1
       customize-cra: ^1.0.0
@@ -600,7 +598,7 @@ importers:
       ace-builds: 1.4.14
       antd: 4.19.3_sfoxds7t5ydpegc3knd667wn6m
       autoprefixer: 9.8.8
-      axios: 0.27.2
+      axios: 1.3.3
       babel-plugin-import: 1.13.3
       chart.js: 3.7.1
       customize-cra: 1.0.0
@@ -679,7 +677,6 @@ importers:
   apps/webhook:
     specifiers:
       '@godaddy/terminus': ^4.3.1
-      '@nestjs/axios': 0.1.0
       '@nestjs/cli': ^7.6.0
       '@nestjs/common': ^9.2.1
       '@nestjs/core': ^9.2.1
@@ -703,7 +700,7 @@ importers:
       '@types/sinon': ^9.0.0
       '@types/socket.io': ^2.1.13
       '@types/supertest': ^2.0.10
-      axios: ^0.27.0
+      axios: ^1.3.3
       bull: ^4.4.0
       bullmq: ^3.5.8
       chai: ^4.2.0
@@ -732,20 +729,19 @@ importers:
       typescript: 4.9.5
     dependencies:
       '@godaddy/terminus': 4.10.2
-      '@nestjs/axios': 0.1.0_jeqwo7fzb4lebm6nefyhh5xlci
       '@nestjs/common': 9.2.1_r72jqgu3m7fr66qxp7vl4agwte
       '@nestjs/core': 9.2.1_wtldhlqnooa3jww7w3todoksxm
       '@nestjs/platform-express': 9.2.1_hjcqpoaebdr7gdo5hgc22hthbe
       '@nestjs/platform-socket.io': 9.2.1_f6yiacuxgrzeaccazi56qscy2e
       '@nestjs/swagger': 6.1.4_4fhhxyztwhblafku3krlstrun4
-      '@nestjs/terminus': 9.1.4_vmpofzc6zdumhbegrneadvieny
+      '@nestjs/terminus': 9.1.4_5jpsbfbll2knk5qgjb5qqh7xhu
       '@novu/application-generic': link:../../packages/application-generic
       '@novu/dal': link:../../libs/dal
       '@novu/shared': link:../../libs/shared
       '@novu/stateless': link:../../packages/stateless
       '@novu/testing': link:../../libs/testing
       '@sentry/node': 6.19.3
-      axios: 0.27.2
+      axios: 1.3.3
       bull: 4.8.1
       bullmq: 3.5.9
       class-transformer: 0.5.1
@@ -808,7 +804,6 @@ importers:
       '@types/react-dom': 17.0.18
       '@types/react-router-dom': ^5.1.7
       antd: ^4.10.0
-      axios: ^0.27.0
       babel-plugin-import: ^1.13.3
       chroma-js: ^2.4.2
       craco-antd: ^1.19.0
@@ -852,7 +847,6 @@ importers:
       '@testing-library/react': 11.2.7_sfoxds7t5ydpegc3knd667wn6m
       '@testing-library/user-event': 12.8.3_jlger254bgvlyiofkvfke55nxu
       antd: 4.19.3_sfoxds7t5ydpegc3knd667wn6m
-      axios: 0.27.2
       babel-plugin-import: 1.13.3
       chroma-js: 2.4.2
       eslint-plugin-cypress: 2.12.1_eslint@8.33.0
@@ -1323,14 +1317,14 @@ importers:
   libs/shared:
     specifiers:
       '@types/bluebird': ^3.5.24
-      axios: ^0.27.0
+      axios: ^1.3.3
       class-transformer: 0.5.1
       class-validator: 0.14.0
       mixpanel: ^0.17.0
       rimraf: ^3.0.2
       typescript: 4.9.5
     dependencies:
-      axios: 0.27.2
+      axios: 1.3.3
       class-transformer: 0.5.1
       class-validator: 0.14.0
       mixpanel: 0.17.0
@@ -1352,7 +1346,7 @@ importers:
       JSONStream: ^1.3.5
       apollo-boost: 0.4.9
       async: ^3.2.0
-      axios: ^0.27.0
+      axios: ^1.3.3
       bcrypt: ~5.0.0
       bullmq: ^3.5.6
       class-transformer: 0.5.1
@@ -1379,7 +1373,7 @@ importers:
       '@novu/shared': link:../shared
       JSONStream: 1.3.5
       async: 3.2.3
-      axios: 0.27.2
+      axios: 1.3.3
       bcrypt: 5.0.1
       bullmq: 3.5.6
       class-transformer: 0.5.1
@@ -1521,7 +1515,7 @@ importers:
       '@types/inquirer': ^8.2.0
       '@types/mocha': 9.1.1
       analytics-node: ^6.2.0
-      axios: ^0.27.0
+      axios: ^1.3.3
       chalk: 4.1.2
       commander: ^9.0.0
       configstore: ^5.0.0
@@ -1540,7 +1534,7 @@ importers:
     dependencies:
       '@novu/shared': link:../../libs/shared
       analytics-node: 6.2.0
-      axios: 0.27.2
+      axios: 1.3.3
       chalk: 4.1.2
       commander: 9.1.0
       configstore: 5.0.1
@@ -1567,7 +1561,6 @@ importers:
       '@novu/shared': ^0.11.0
       '@types/jest': 27.5.2
       '@types/node': ^14.6.0
-      axios: ^0.27.0
       codecov: ^3.5.0
       jest: ^27.0.6
       rimraf: ^3.0.2
@@ -1576,7 +1569,6 @@ importers:
       typescript: 4.9.5
     dependencies:
       '@novu/shared': link:../../libs/shared
-      axios: 0.27.2
     devDependencies:
       '@types/jest': 27.5.2
       '@types/node': 14.18.12
@@ -1667,7 +1659,7 @@ importers:
       '@types/lodash.get': ^4.4.6
       '@types/lodash.merge': ^4.6.6
       '@types/node': ^14.6.0
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cz-conventional-changelog: ^3.3.0
       handlebars: ^4.7.7
@@ -1683,7 +1675,7 @@ importers:
       typescript: 4.9.5
     dependencies:
       '@novu/shared': link:../../libs/shared
-      axios: 0.27.2
+      axios: 1.3.3
       handlebars: 4.7.7
       lodash.get: 4.4.2
       lodash.merge: 4.6.2
@@ -1736,7 +1728,7 @@ importers:
       '@types/react-dom': ^17.0.0
       acorn: ^8.7.1
       acorn-jsx: ^5.3.2
-      axios: ^0.27.0
+      axios: ^1.3.3
       babel-loader: ^8.2.4
       chroma-js: ^2.4.2
       date-fns: ^2.29.1
@@ -1771,7 +1763,7 @@ importers:
       '@rollup/plugin-babel': 6.0.3_33xvyxcmf5jjujxdnhmxirweba
       '@tanstack/react-query': 4.20.4_sfoxds7t5ydpegc3knd667wn6m
       acorn-jsx: 5.3.2_acorn@8.7.1
-      axios: 0.27.2
+      axios: 1.3.3
       chroma-js: 2.4.2
       date-fns: 2.29.1
       lodash.clonedeep: 4.5.0
@@ -1918,7 +1910,6 @@ importers:
       '@types/lodash.get': ^4.4.6
       '@types/lodash.merge': ^4.6.6
       '@types/node': ^14.6.0
-      axios: ^0.27.0
       codecov: ^3.5.0
       cz-conventional-changelog: ^3.3.0
       handlebars: ^4.7.7
@@ -1933,7 +1924,6 @@ importers:
       typedoc: ^0.23.0
       typescript: 4.9.5
     dependencies:
-      axios: 0.27.2
       handlebars: 4.7.7
       lodash.get: 4.4.2
       lodash.merge: 4.6.2
@@ -1998,7 +1988,7 @@ importers:
       '@istanbuljs/nyc-config-typescript': ^1.0.1
       '@novu/stateless': ^0.11.0
       '@types/jest': ^27.0.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cspell: ^4.1.0
       cz-conventional-changelog: ^3.3.0
@@ -2017,7 +2007,7 @@ importers:
       uuid: ^9.0.0
     dependencies:
       '@novu/stateless': link:../../packages/stateless
-      axios: 0.27.2
+      axios: 1.3.3
       qs: 6.11.0
     devDependencies:
       '@istanbuljs/nyc-config-typescript': 1.0.2_nyc@15.1.0
@@ -2042,9 +2032,8 @@ importers:
     specifiers:
       '@istanbuljs/nyc-config-typescript': ^1.0.1
       '@novu/stateless': ^0.11.0
-      '@types/axios': ^0.14.0
       '@types/jest': ^27.0.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cspell: ^4.1.0
       cz-conventional-changelog: ^3.3.0
@@ -2060,10 +2049,9 @@ importers:
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
-      axios: 0.27.2
+      axios: 1.3.3
     devDependencies:
       '@istanbuljs/nyc-config-typescript': 1.0.2_nyc@15.1.0
-      '@types/axios': 0.14.0
       '@types/jest': 27.4.1
       codecov: 3.8.3
       cspell: 4.2.8
@@ -2084,7 +2072,7 @@ importers:
       '@istanbuljs/nyc-config-typescript': ^1.0.1
       '@novu/stateless': ^0.11.0
       '@types/jest': ^27.0.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cspell: ^4.1.0
       cz-conventional-changelog: ^3.3.0
@@ -2101,7 +2089,7 @@ importers:
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
-      axios: 0.27.2
+      axios: 1.3.3
     devDependencies:
       '@istanbuljs/nyc-config-typescript': 1.0.2_nyc@15.1.0
       '@types/jest': 27.4.1
@@ -2559,7 +2547,7 @@ importers:
       '@istanbuljs/nyc-config-typescript': ^1.0.1
       '@novu/stateless': ^0.7.2
       '@types/jest': ^27.0.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cspell: ^4.1.0
       cz-conventional-changelog: ^3.3.0
@@ -2577,7 +2565,7 @@ importers:
       uuid: ^9.0.0
     dependencies:
       '@novu/stateless': 0.7.2
-      axios: 0.27.2
+      axios: 1.3.3
     devDependencies:
       '@istanbuljs/nyc-config-typescript': 1.0.2_nyc@15.1.0
       '@types/jest': 27.4.1
@@ -2978,7 +2966,7 @@ importers:
       '@novu/node': ^0.11.0
       '@novu/stateless': ^0.11.0
       '@types/jest': ^27.0.1
-      axios: ^0.27.0
+      axios: ^1.3.3
       codecov: ^3.5.0
       cspell: ^4.1.0
       cz-conventional-changelog: ^3.3.0
@@ -2996,7 +2984,7 @@ importers:
     dependencies:
       '@novu/node': link:../../packages/node
       '@novu/stateless': link:../../packages/stateless
-      axios: 0.27.2
+      axios: 1.3.3
     devDependencies:
       '@istanbuljs/nyc-config-typescript': 1.0.2_nyc@15.1.0
       '@types/jest': 27.4.1
@@ -19296,34 +19284,18 @@ packages:
     dev: false
     optional: true
 
-  /@nestjs/axios/0.1.0_jeqwo7fzb4lebm6nefyhh5xlci:
-    resolution: {integrity: sha512-b2TT2X6BFbnNoeteiaxCIiHaFcSbVW+S5yygYqiIq5i6H77yIU3IVuLdpQkHq8/EqOWFwMopLN8jdkUT71Am9w==}
+  /@nestjs/axios/2.0.0_ivnts6meojgvmcn22rcvkkktsi:
+    resolution: {integrity: sha512-F6oceoQLEn031uun8NiommeMkRIojQqVryxQy/mK7fx0CI0KbgkJL3SloCQcsOD+agoEnqKJKXZpEvL6FNswJg==}
     peerDependencies:
       '@nestjs/common': ^7.0.0 || ^8.0.0 || ^9.0.0
-      reflect-metadata: ^0.1.12
-      rxjs: ^6.0.0 || ^7.0.0
-    dependencies:
-      '@nestjs/common': 9.2.1_r72jqgu3m7fr66qxp7vl4agwte
-      axios: 0.27.2
-      reflect-metadata: 0.1.13
-      rxjs: 7.5.6
-    transitivePeerDependencies:
-      - debug
-    dev: false
-
-  /@nestjs/axios/0.1.1_m35besaglbko3ybu6uaqzypui4:
-    resolution: {integrity: sha512-rLEq6yfho2CZyOcxP+P4Q3FjkNuiiHDyzj3Cr9i4Kdn3Ng09ygtOB4++jjXPREc6650pOFfzNtw18QH7bfLnQA==}
-    peerDependencies:
-      '@nestjs/common': ^7.0.0 || ^8.0.0 || ^9.0.0
+      axios: ^1.3.1
       reflect-metadata: ^0.1.12
       rxjs: ^6.0.0 || ^7.0.0
     dependencies:
       '@nestjs/common': 9.0.2_mgahpprohdkjk6lephiejykozi
-      axios: 1.2.1
+      axios: 1.3.3
       reflect-metadata: 0.1.13
       rxjs: 7.5.5
-    transitivePeerDependencies:
-      - debug
     dev: false
 
   /@nestjs/cli/7.6.0:
@@ -20155,7 +20127,7 @@ packages:
       rxjs: 7.5.5
     dev: false
 
-  /@nestjs/terminus/9.1.4_vmpofzc6zdumhbegrneadvieny:
+  /@nestjs/terminus/9.1.4_5jpsbfbll2knk5qgjb5qqh7xhu:
     resolution: {integrity: sha512-VUkafKRK6uWzwyHPind3RejxQAFJxPaXjDtvHQRaNdJ5Pk9wVD4e6e8KLGhcrPGC8ZDorqBLZABnECIcGzkodA==}
     peerDependencies:
       '@grpc/grpc-js': '*'
@@ -20200,7 +20172,6 @@ packages:
       typeorm:
         optional: true
     dependencies:
-      '@nestjs/axios': 0.1.0_jeqwo7fzb4lebm6nefyhh5xlci
       '@nestjs/common': 9.2.1_r72jqgu3m7fr66qxp7vl4agwte
       '@nestjs/core': 9.2.1_wtldhlqnooa3jww7w3todoksxm
       boxen: 5.1.2
@@ -26723,7 +26694,7 @@ packages:
       '@pmmmwh/react-refresh-webpack-plugin': 0.5.4_prxwy2zxcolvdag5hfkyuqbcze
       '@storybook/node-logger': 6.4.19
       '@storybook/react': 6.4.21_qpmapylff2xgpc65qzzxq2uhoq
-      '@storybook/react-docgen-typescript-plugin': 1.0.2--canary.7.324a727c65a1819f7f3ede5abc1f32d440e4530a.0_63xtaxbd5aftweb5kajvrft2fm
+      '@storybook/react-docgen-typescript-plugin': 1.0.2--canary.7.391457fcf6c823971cf02d8e74dbf8e242872b26.0_63xtaxbd5aftweb5kajvrft2fm
       '@types/babel__core': 7.1.19
       babel-plugin-react-docgen: 4.2.1
       pnp-webpack-plugin: 1.7.0_typescript@4.9.5
@@ -26792,8 +26763,8 @@ packages:
       unfetch: 4.2.0
       util-deprecate: 1.0.2
 
-  /@storybook/react-docgen-typescript-plugin/1.0.2--canary.7.324a727c65a1819f7f3ede5abc1f32d440e4530a.0_63xtaxbd5aftweb5kajvrft2fm:
-    resolution: {integrity: sha512-tnaT0VqSGhmMi/I880aMOToSrNd7XCr1avS/M1tk/+FDO+0GqHXo9abC5sos705ly3Hmi1FxFvHnzV/cvU1JTg==}
+  /@storybook/react-docgen-typescript-plugin/1.0.2--canary.7.391457fcf6c823971cf02d8e74dbf8e242872b26.0_63xtaxbd5aftweb5kajvrft2fm:
+    resolution: {integrity: sha512-QDa+qccIygDjdfg6Z/CjPWlNY5ia+oFvy8pK5XCGsNXCpTfVL8gbGa63tonCUeNxqioWLOpysUGsyHR+t4uzPg==}
     peerDependencies:
       typescript: '>= 3.x'
       webpack: '>= 4'
@@ -27931,15 +27902,6 @@ packages:
 
   /@types/async/3.2.12:
     resolution: {integrity: sha512-4i4w4tfNDo73BOjk0qHcB2YJ8A2SjITCrU4BTsgdJFTsVr6atPDXa0T9r0QZTrX3axtWwkqpZqF4B3gR0TqBGw==}
-    dev: true
-
-  /@types/axios/0.14.0:
-    resolution: {integrity: sha512-KqQnQbdYE54D7oa/UmYVMZKq7CO4l8DEENzOKc4aBRwxCXSlJXGz83flFx5L7AWrOQnmuN3kVsRdt+GZPPjiVQ==}
-    deprecated: This is a stub types definition for axios (https://github.com/mzabriskie/axios). axios provides its own type definitions, so you don't need @types/axios installed!
-    dependencies:
-      axios: 1.2.1
-    transitivePeerDependencies:
-      - debug
     dev: true
 
   /@types/babel__core/7.1.19:
@@ -31475,7 +31437,7 @@ packages:
   /axios/0.27.2:
     resolution: {integrity: sha512-t+yRIyySRTp/wua5xEr+z1q60QmLq8ABsS5O9Me1AsE5dfKqgnCFzwiCZZ/cGNd1lq4/7akDWMxdhVlucjmnOQ==}
     dependencies:
-      follow-redirects: 1.14.9
+      follow-redirects: 1.15.2
       form-data: 4.0.0
     transitivePeerDependencies:
       - debug
@@ -31484,14 +31446,14 @@ packages:
   /axios/0.27.2_debug@4.3.4:
     resolution: {integrity: sha512-t+yRIyySRTp/wua5xEr+z1q60QmLq8ABsS5O9Me1AsE5dfKqgnCFzwiCZZ/cGNd1lq4/7akDWMxdhVlucjmnOQ==}
     dependencies:
-      follow-redirects: 1.14.9_debug@4.3.4
+      follow-redirects: 1.15.2_debug@4.3.4
       form-data: 4.0.0
     transitivePeerDependencies:
       - debug
     dev: true
 
-  /axios/1.2.1:
-    resolution: {integrity: sha512-I88cFiGu9ryt/tfVEi4kX2SITsvDddTajXTOFmt2uK1ZVA8LytjtdeyefdQWEf5PU8w+4SSJDoYnggflB5tW4A==}
+  /axios/1.3.3:
+    resolution: {integrity: sha512-eYq77dYIFS77AQlhzEL937yUBSepBfPIe8FcgEDN35vMNZKMrs81pgnyrQpwfy4NF4b4XWX1Zgx7yX+25w8QJA==}
     dependencies:
       follow-redirects: 1.15.2
       form-data: 4.0.0
@@ -34046,7 +34008,7 @@ packages:
     resolution: {integrity: sha512-j4dx+Fb0URmzbwwMUrhqWM2BEWHdFGx+qZ9qqASHRPqvTYdqvWnHg0H1hIbcyLnvgnoNAVMlwkepyqM3DaIFUg==}
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
 
   /concat-stream/1.6.2:
     resolution: {integrity: sha512-27HBghJxjiZtIk3Ycvn/4kbJk/1uZuJFfuPEns6LaEvpvG1f0hTea8lilrouyo9mVc2GWdcEZ8OLoGmSADlrCw==}
@@ -39537,18 +39499,17 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /follow-redirects/1.14.9:
-    resolution: {integrity: sha512-MQDfihBQYMcyy5dhRDJUHcw7lb2Pv/TuE6xP1vyraLukNDHKbDxDNaOE3NbCAdKQApno+GPRyo1YAp89yCjK4w==}
+  /follow-redirects/1.15.2:
+    resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==}
     engines: {node: '>=4.0'}
     peerDependencies:
       debug: '*'
     peerDependenciesMeta:
       debug:
         optional: true
-    dev: false
 
-  /follow-redirects/1.14.9_debug@4.3.4:
-    resolution: {integrity: sha512-MQDfihBQYMcyy5dhRDJUHcw7lb2Pv/TuE6xP1vyraLukNDHKbDxDNaOE3NbCAdKQApno+GPRyo1YAp89yCjK4w==}
+  /follow-redirects/1.15.2_debug@4.3.4:
+    resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==}
     engines: {node: '>=4.0'}
     peerDependencies:
       debug: '*'
@@ -39558,15 +39519,6 @@ packages:
     dependencies:
       debug: 4.3.4
     dev: true
-
-  /follow-redirects/1.15.2:
-    resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==}
-    engines: {node: '>=4.0'}
-    peerDependencies:
-      debug: '*'
-    peerDependenciesMeta:
-      debug:
-        optional: true
 
   /for-each/0.3.3:
     resolution: {integrity: sha512-jqYfLp7mo9vIyQf8ykW2v7A+2N4QjeCeI5+Dz9XraiO1ign81wjiH7Fb9vSOWvQfNtmSa4H2RoQTrrXivdUZmw==}
@@ -48193,7 +48145,7 @@ packages:
       '@yarnpkg/lockfile': 1.1.0
       '@yarnpkg/parsers': 3.0.0-rc.36
       '@zkochan/js-yaml': 0.0.6
-      axios: 1.2.1
+      axios: 1.3.3
       chalk: 4.1.2
       cli-cursor: 3.1.0
       cli-spinners: 2.6.1
@@ -56925,7 +56877,7 @@ packages:
     dependencies:
       tslib: 1.14.1
 
-  /ts-jest/27.1.4_dwaltnofjt727p7olboxmdxrie:
+  /ts-jest/27.1.4_cnngzrja2umb46xxazlucyx2qu:
     resolution: {integrity: sha512-qjkZlVPWVctAezwsOD1OPzbZ+k7zA5z3oxII4dGdZo5ggX/PL7kvwTM0pXTr10fAtbiVpJaL3bWd502zAhpgSQ==}
     engines: {node: ^10.13.0 || ^12.13.0 || ^14.15.0 || >=15.0.0}
     hasBin: true
@@ -56946,7 +56898,6 @@ packages:
       esbuild:
         optional: true
     dependencies:
-      '@babel/core': 7.20.12
       bs-logger: 0.2.6
       fast-json-stable-stringify: 2.1.0
       jest: 27.5.1_ts-node@10.9.1
